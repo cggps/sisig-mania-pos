@@ -1,0 +1,24 @@
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\obj\x86\Debug\Sisig_Mania.Form1.resources
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\obj\x86\Debug\Sisig_Mania.Properties.Resources.resources
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\obj\x86\Debug\Sisig Mania.csproj.GenerateResource.Cache
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\bin\Debug\Sisig Mania.exe
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\bin\Debug\Sisig Mania.pdb
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\obj\x86\Debug\Sisig Mania.exe
+C:\Users\Gillianne Santiago\AppData\Local\Temporary Projects\Sisig Mania\obj\x86\Debug\Sisig Mania.pdb
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.exe
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.pdb
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\bin\Debug\Sisig Mania.exe
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\bin\Debug\Sisig Mania.pdb
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.csprojResolveAssemblyReference.cache
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig_Mania.Form1.resources
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig_Mania.Properties.Resources.resources
+C:\Users\Gillianne Santiago\Documents\Visual Studio 2010\Projects\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.csproj.GenerateResource.Cache
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\bin\Debug\Sisig Mania.exe
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\bin\Debug\Sisig Mania.pdb
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.csprojAssemblyReference.cache
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig_Mania.Form1.resources
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig_Mania.Properties.Resources.resources
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.csproj.GenerateResource.cache
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.csproj.CoreCompileInputs.cache
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.exe
+D:\GILLIANNE\GILLIANNE FINALS\C#\SISIG MANIA\Sisig Mania\Sisig Mania\obj\x86\Debug\Sisig Mania.pdb
